@@ -3,110 +3,32 @@
         {
             "name": "New Year's Day",
             "date": "2022-01-01",
-            "observed": "2021-12-31",
-            "public": true,
-            "country": "US",
-            "uuid": "82f78b8a-019e-479e-a19f-99040275f9bf",
-            "weekday": {
-                "date": {
-                    "name": "Saturday",
-                    "numeric": "6"
-                },
-                "observed": {
-                    "name": "Friday",
-                    "numeric": "5"
-                }
-            }
+            
         },
         {
             "name": "Seventh Day of Kwanzaa",
             "date": "2022-01-01",
-            "observed": "2022-01-01",
-            "public": false,
-            "country": "US",
-            "uuid": "0e766ff3-0d31-40e1-85e1-49ed61ab006d",
-            "weekday": {
-                "date": {
-                    "name": "Saturday",
-                    "numeric": "6"
-                },
-                "observed": {
-                    "name": "Saturday",
-                    "numeric": "6"
-                }
-            }
+            
         },
         {
             "name": "Epiphany",
             "date": "2022-01-06",
-            "observed": "2022-01-06",
-            "public": false,
-            "country": "US",
-            "uuid": "61d8d9ba-8ce1-4e64-9b1a-f40d30f74a57",
-            "weekday": {
-                "date": {
-                    "name": "Thursday",
-                    "numeric": "4"
-                },
-                "observed": {
-                    "name": "Thursday",
-                    "numeric": "4"
-                }
-            }
+            
         },
         {
             "name": "Orthodox Christmas Eve",
             "date": "2022-01-06",
-            "observed": "2022-01-06",
-            "public": false,
-            "country": "US",
-            "uuid": "bc893ac4-be85-4af6-abad-687e923bbcec",
-            "weekday": {
-                "date": {
-                    "name": "Thursday",
-                    "numeric": "4"
-                },
-                "observed": {
-                    "name": "Thursday",
-                    "numeric": "4"
-                }
-            }
+           
         },
         {
             "name": "Orthodox Christmas Day",
             "date": "2022-01-07",
-            "observed": "2022-01-07",
-            "public": false,
-            "country": "US",
-            "uuid": "8ed029b2-c39d-46aa-b15a-4c67540380e4",
-            "weekday": {
-                "date": {
-                    "name": "Friday",
-                    "numeric": "5"
-                },
-                "observed": {
-                    "name": "Friday",
-                    "numeric": "5"
-                }
-            }
+            
         },
         {
             "name": "Stephen Foster Memorial Day",
             "date": "2022-01-13",
-            "observed": "2022-01-13",
-            "public": false,
-            "country": "US",
-            "uuid": "099def58-4545-4468-bdbb-d370c7726189",
-            "weekday": {
-                "date": {
-                    "name": "Thursday",
-                    "numeric": "4"
-                },
-                "observed": {
-                    "name": "Thursday",
-                    "numeric": "4"
-                }
-            }
+           
         } 
     ]
 }
