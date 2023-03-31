@@ -2,32 +2,32 @@
   "data": [
         {
             "name": "New Year's Day",
-            "date": "2022-01-01",
+            "date": "2022-01-01"
             
         },
         {
             "name": "Seventh Day of Kwanzaa",
-            "date": "2022-01-01",
+            "date": "2022-01-01"
             
         },
         {
             "name": "Epiphany",
-            "date": "2022-01-06",
+            "date": "2022-01-06"
             
         },
         {
             "name": "Orthodox Christmas Eve",
-            "date": "2022-01-06",
+            "date": "2022-01-06"
            
         },
         {
             "name": "Orthodox Christmas Day",
-            "date": "2022-01-07",
+            "date": "2022-01-07"
             
         },
         {
             "name": "Stephen Foster Memorial Day",
-            "date": "2022-01-13",
+            "date": "2022-01-13"
            
         } 
     ]
